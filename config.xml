@@ -27,6 +27,7 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
+	<plugin name="cordova-plugin-admob-free" />
 
 
 	<engine name="ios" />
