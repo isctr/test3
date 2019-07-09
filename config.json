@@ -1,5 +1,5 @@
 ﻿{
-	"id": "construct.benmprojem.myapp",
+	"id": "construct.dfweref.myapp",
 	"version": "1.0.0.0",
 	"name": "test3",
 	"description": "test 3",
@@ -22,7 +22,6 @@
 	}],
 	"plugins": [
 		{ "id": "cordova-custom-config", "version": null },
-		{ "id": "cordova-plugin-ad-admob", "version": null },
 		{ "id": "cordova-plugin-file", "version": null },
 		{ "id": "cordova-plugin-statusbar", "version": null },
 		{ "id": "cordova-plugin-whitelist", "version": null },

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="construct.benmprojem.myapp" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="construct.dfweref.myapp" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>test3</name>
 	<description>test 3</description>
 	<author>cetin cetin</author>
@@ -23,7 +23,6 @@
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
-	<plugin name="cordova-plugin-ad-admob" />
 	<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
